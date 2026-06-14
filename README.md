@@ -5,11 +5,11 @@ Repositori ini berisi kode dan pipeline untuk melakukan klasifikasi karakter hur
 
 Kedua model tersebut dioptimasi menggunakan teknik **Bayesian Optimization (BO)** untuk mendapatkan konfigurasi *hyperparameter* terbaik secara efisien.
 
-## Struktur Repositori
+
 
 
 ```
-
+## Struktur Repositori
 ```text
 README.md has been generated.
 
