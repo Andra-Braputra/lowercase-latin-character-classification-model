@@ -1,15 +1,12 @@
-
-Lowercase Latin Character Classification Model
+## Lowercase Latin Character Classification Model
 
 Repositori ini berisi kode dan pipeline untuk melakukan klasifikasi karakter huruf kecil Latin (a-z). Proyek ini membandingkan dua pendekatan utama: *Deep Learning* menggunakan arsitektur **AlexNet** dan *Machine Learning* konvensional menggunakan **Support Vector Machine (SVM)**. 
 
 Kedua model tersebut dioptimasi menggunakan teknik **Bayesian Optimization (BO)** untuk mendapatkan konfigurasi *hyperparameter* terbaik secara efisien.
 
 
-
-
-```
 ## Struktur Repositori
+
 ```text
 README.md has been generated.
 
