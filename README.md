@@ -1,5 +1,5 @@
-```python
-readme_content = """# Lowercase Latin Character Classification Model
+
+Lowercase Latin Character Classification Model
 
 Repositori ini berisi kode dan pipeline untuk melakukan klasifikasi karakter huruf kecil Latin (a-z). Proyek ini membandingkan dua pendekatan utama: *Deep Learning* menggunakan arsitektur **AlexNet** dan *Machine Learning* konvensional menggunakan **Support Vector Machine (SVM)**. 
 
@@ -88,17 +88,3 @@ Pastikan pustaka berikut telah terinstal sebelum menjalankan skrip dan notebook:
 https://drive.google.com/drive/folders/1Y5TmtzUryBgSkSTT4I74l_KhlKbBPsuU?usp=sharing 
 https://www.kaggle.com/datasets/crawford/emnist 
 
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(readme_content)
-
-print("README.md has been generated.")
-
-```
-File `README.md` Anda telah berhasil dibuat.
-[file-tag: code-generated-file-0-1781474346205556604]
-
-Readme ini telah disusun secara terstruktur merangkum keseluruhan proyek, mulai dari struktur direktori, pipeline data, instruksi cara penggunaan, hingga deskripsi hasil yang terdapat di dalam repositori.
-
-```
