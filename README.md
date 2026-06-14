@@ -82,8 +82,14 @@ Pastikan pustaka berikut telah terinstal sebelum menjalankan skrip dan notebook:
 * Matplotlib & Seaborn (untuk visualisasi)
 
 ## Sumber Dataset
-Dataset Custom
-* https://drive.google.com/drive/folders/1Y5TmtzUryBgSkSTT4I74l_KhlKbBPsuU?usp=sharing
-Dataset EMNIST
-* https://www.kaggle.com/datasets/crawford/emnist 
+
+### 1. Dataset Custom
+Dataset buatan sendiri yang dikumpulkan dan diproses secara manual.
+ **Link Dataset:**
+[https://drive.google.com/drive/folders/1Y5TmtzUryBgSkSTT4I74l_KhlKbBPsuU?usp=sharing](https://drive.google.com/drive/folders/1Y5TmtzUryBgSkSTT4I74l_KhlKbBPsuU?usp=sharing)
+
+### 2. Dataset EMNIST (Extended MNIST)
+Dataset publik berisi karakter tulisan tangan yang merupakan ekstensi dari MNIST.
+ **Link Dataset:**
+[https://www.kaggle.com/datasets/crawford/emnist](https://www.kaggle.com/datasets/crawford/emnist)
 
