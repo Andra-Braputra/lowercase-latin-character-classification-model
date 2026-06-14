@@ -82,6 +82,8 @@ Pastikan pustaka berikut telah terinstal sebelum menjalankan skrip dan notebook:
 * Matplotlib & Seaborn (untuk visualisasi)
 
 ## Sumber Dataset
-https://drive.google.com/drive/folders/1Y5TmtzUryBgSkSTT4I74l_KhlKbBPsuU?usp=sharing 
-https://www.kaggle.com/datasets/crawford/emnist 
+Dataset Custom
+* https://drive.google.com/drive/folders/1Y5TmtzUryBgSkSTT4I74l_KhlKbBPsuU?usp=sharing
+Dataset EMNIST
+* https://www.kaggle.com/datasets/crawford/emnist 
 
